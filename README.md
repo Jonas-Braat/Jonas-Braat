@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jonas-Braat
-- 👀 I’m interested in embedded C, website development
+- 👀 I’m interested in embedded C,robotics, website development
 - 🌱 I’m currently learning python and how to automate boring stuff
 
 
